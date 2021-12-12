@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+background-color: #161616;
+height: 100vh;
+width: 100%;
+}
+
+.marron{
+  background-color: #AF2E1C;
+}
+
+.white{
+  background-color: #F9F9F9;
+}

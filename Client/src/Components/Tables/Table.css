@@ -1,0 +1,147 @@
+.card-table{
+background: white;
+position: absolute;
+width: 1266.17px;
+height: max-content;
+left: 87px;
+top: 250px;
+border: solid black 1px;
+}
+
+.tb-header{
+    text-align:left;
+    padding-left: 10px !important;
+    box-sizing: border-box;
+}
+
+tr th{
+    box-sizing: border-box;
+    background: white;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    width: max-content;
+height: 73.14px;
+margin: -2px;
+}
+tr td{
+    box-sizing: border-box;
+    border-width: 5px;
+    background: #F9F9F9;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    width: max-content;
+height: 73.14px;
+padding-left: 10px;
+}
+tbody tr:nth-child(2n){
+    background: black !important;
+}
+
+.title-verification{
+    position: absolute;
+left: 87px;
+top: 179px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #161616;
+margin-bottom: 50px;
+}
+
+.row-action{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-dangers {
+    margin-right: 15px;
+    background-color: #FF0742;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    padding: 8px 25px 8px 25px;
+    width: 100px;
+    height: 35px;
+  }
+  
+  .btn-dangers:hover {
+      color: white;
+    box-shadow: none !important;
+    background-color: #d30636;
+    border: none !important;
+  }
+  
+  .btn-dangers:focus {
+      color: white;
+    box-shadow: none !important;
+    background-color: #d30636;
+    border: none !important;
+  }
+  
+  .btn-succes {
+    background-color: #0acf83;
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+  }
+  
+  .btn-succes:hover {
+      color: white;
+    box-shadow: none !important;
+    background-color: #05a86a;
+    border: none !important;
+  }
+  
+  .btn-succes:focus {
+    box-shadow: none !important;
+    background-color: #05a86a;
+    color: white;
+    border: none !important;
+  }
+
+  .status-warning{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #F7941E;
+  }
+
+  .status-success{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #0ACF83;
+;
+  }
+
+  .status-cancel{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #FF0742;
+  }

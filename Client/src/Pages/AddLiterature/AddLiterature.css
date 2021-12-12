@@ -1,0 +1,71 @@
+.title-add-literature{
+    font-family: 'Times New Roman';
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 101.5%;
+color: #FFFFFF;
+}
+
+.inputAdd{
+    margin-top: 30px;
+    width: 1284px;
+height: 50px;
+background: rgba(210, 210, 210, 0.25);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.author-text{
+    position: relative;
+    bottom: 55px;
+    left: 75px;
+}
+
+.attache-input{
+    width: 280.22px;
+height: 50px;
+background: rgba(210, 210, 210, 0.25);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 30px;
+display: flex;
+justify-content: space-between;
+}
+
+.attache-style{
+    color: rgb(167, 164, 164);
+    position: relative;
+    top: 15px;
+    padding-left: 10px;
+    cursor: pointer !important;
+}
+
+.buttonAdd{
+    width: 192.81px;
+height: 50px;
+background: #EE4622;
+border-radius: 5px;
+float: right;
+margin-top: 50px;
+margin-bottom: 50px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+color: #FFFFFF;
+cursor: pointer !important;
+
+}
+
+.attache-icon{
+    position: relative;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+height: 30px;
+cursor: pointer !important;
+}

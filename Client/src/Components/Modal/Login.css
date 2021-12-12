@@ -1,0 +1,25 @@
+.bodyModalLogin{
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    width: 416px;
+    height: 380px;
+    background: #161616;
+    border-radius: 10px;
+    border: solid white 1px;
+}
+
+.btnLogin{
+    cursor: pointer !important;
+width: 211px;
+height: 50px;
+margin-left: 20px;
+background: #F9F9F9;
+border-radius: 5px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+color: #000000;
+}

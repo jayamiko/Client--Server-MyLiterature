@@ -1,0 +1,44 @@
+.containerBox{
+    display: flex;  
+}
+
+.textHeader{
+    font-family: 'Times New Roman';
+    width: 614px;
+height: 183px;
+padding-left: 100px;
+padding-top: 50px;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 82.49%;
+color: #FFFFFF;
+}
+  
+.paragraf{
+    padding-left: 100px;
+    margin-top: -50px;
+width: 480px;
+height: 107px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+color: #FFFFFF;
+}
+
+.iconSmall{
+    padding-left: 100px;
+    width: 139px;
+    height: 41px;
+padding-top: 20px;
+}
+
+.iconBooks{
+    position: absolute;
+    left: 42.92%;
+    right: 8.47%;
+    top: 0;
+    bottom: 10.33%;
+}

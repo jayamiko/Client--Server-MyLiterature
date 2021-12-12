@@ -1,0 +1,120 @@
+.detail-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.info-detail{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    right: 50px;
+}
+
+.info-detail h1,h3{
+    font-family: 'Times New Roman';
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 120.5%;
+color: #FFFFFF;
+}
+
+.info-detail h1{
+    position: relative;
+    bottom: 25px;
+}
+
+.info-detail h3{
+    position: relative;
+    bottom: 40px;
+}
+
+.info-detail p{
+    position: relative;
+    bottom: 70px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 101.5%;
+color: #929292;
+}
+
+.btn-download{
+    position: relative;
+    bottom: 40px;
+    background: #AF2E1C;
+    width: 144px;
+height: 50px;
+border-radius: 5px;
+}
+
+.info-detail a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.btn-download img{
+    margin-left: 10px;
+}
+.btn-collections img{
+    margin-left: 15px;
+}
+
+.btn-collections{
+width: 212px;
+height: 50px;
+left: 1135px;
+top: 161px;
+background: #AF2E1C;
+border-radius: 5px;
+}
+
+.btn-collections a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.btn-remove{
+    width: 212px;
+    height: 50px;
+    left: 1135px;
+    top: 161px;
+    background: #AF2E1C;
+    border-radius: 5px;
+    align-items: center;
+    }
+    
+.btn-remove a{
+        text-align: center;
+        color: white;
+        text-decoration: none;
+        font-family: 'Avenir';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 25px;
+}
+
+.btn-remove a img{
+    width: 25px;
+height: 25px;
+position: relative;
+top: 7.5px;
+left: 9px;
+}

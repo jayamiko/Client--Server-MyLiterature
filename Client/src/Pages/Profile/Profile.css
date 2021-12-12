@@ -1,0 +1,211 @@
+.body{
+  background: #161616 !important;
+}
+
+.profile-container {
+    background-color: #161616;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -50px;
+position: relative;
+top: 25px;
+}
+
+.profile-container h1{
+  font-family: 'Times New Roman';
+    margin-left: -1170px;
+    margin-bottom: -10px;
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 101.5%;
+    color: #FFFFFF;
+  }
+  
+  .card-profile{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profile-content{
+    /* margin-top: 100px; */
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+  }
+  
+  .align-items-center{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 15px;
+  }
+  
+  .align-items-center p {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+color: #FFFFFF;
+margin-left: 15px;
+}
+
+.align-items-center small {
+  font-family: 'Avenir';
+  margin-left: 15px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  color: #8A8C90;
+margin-bottom: 5px;
+}
+
+.profile-container .img-1 {
+  width: 30px;
+  height: 30px;
+}
+
+.imageProfile{
+  height: 250px;
+  width: 250px;
+  }
+  
+  .tripCard{
+    left: 500px;
+  }
+  
+  p {
+    margin-bottom: 0;
+  }
+  
+  .data-container {
+    width: 900px;
+    height: 450px;
+    margin-bottom: 250px;
+    background: #252525;
+    border-width: 0ch !important;
+    border-radius: 8px;
+    width: 1275px;
+    height: 334px;
+    margin-top: 30px;
+  }
+  
+  .preview-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .history-trip {
+    position: absolute;
+    font-weight: bold;
+    height: 49px;
+    left: 110px;
+    top: 830px;
+  }
+
+  .btnChange{
+height: 50px;
+left: 1100px;
+top: 471px;
+background: #AF2E1C;
+border-radius: 5px;
+    width: 226.67px !important;
+    margin-top: 15px;
+    cursor: pointer !important;
+  }
+  
+  .label-upload{
+    cursor: pointer !important;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: normal;
+    width: 190px !important;
+    height: 40px;
+    text-align: center !important;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 35px;
+    color: #FFFFFF;
+  }
+  
+  .profile-box{
+    margin-top: 50px;
+    background: url(../../Images//profile-default.jpg);
+  }
+  
+  .frame-pdf{
+    margin-top: 50px;
+    border-radius: 10px;
+  }
+  
+  .title-myliterature{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 101.5%;
+    color: #FFFFFF !important;
+  }
+  
+.container-literature{
+position: relative;
+}
+
+.my-literature{
+  position: relative;
+  width: 245px;
+  bottom: 50px;
+  height: max-content;
+}
+
+.text-truncate{
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 120.5%;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+  
+  .author{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.5%;
+    color: #929292;
+  }
+  
+  .publication{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.5%;
+    text-align: right;
+    color: #929292;
+  }
+  
+  .row{
+    position: relative;
+    bottom: 100px;
+    right: 40px;
+    width: 1200px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
